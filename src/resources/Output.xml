@@ -1,0 +1,12 @@
+<Directory rootName=ABC>
+	<Directory name=A path=C:\ABC\A size=0>
+	</Directory>
+	<Directory name=B path=C:\ABC\B size=0>
+		<Directory name=C path=C:\ABC\B\C size=0>
+		</Directory>
+		<Directory name=D path=C:\ABC\B\D size=0>
+		</Directory>
+		<Directory name=E path=C:\ABC\B\E size=0>
+		</Directory>
+	</Directory>
+</Directory>
