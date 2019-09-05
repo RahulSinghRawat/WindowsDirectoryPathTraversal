@@ -1,12 +1,1001 @@
-<Directory rootName=ABC>
-	<Directory name=A path=C:\ABC\A size=0>
+<Directory rootName=.>
+	<File>
+		<filename>.classpath</filename>
+		<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.classpath</filepath>
+		<filesize>1022</filesize>
+	</File>
+	<Directory name=.git path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git size=4096>
+		<File>
+			<filename>COMMIT_EDITMSG</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\COMMIT_EDITMSG</filepath>
+			<filesize>27</filesize>
+		</File>
+		<File>
+			<filename>FETCH_HEAD</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\FETCH_HEAD</filepath>
+			<filesize>126</filesize>
+		</File>
+		<File>
+			<filename>HEAD</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\HEAD</filepath>
+			<filesize>23</filesize>
+		</File>
+		<File>
+			<filename>ORIG_HEAD</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\ORIG_HEAD</filepath>
+			<filesize>41</filesize>
+		</File>
+		<File>
+			<filename>config</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\config</filepath>
+			<filesize>331</filesize>
+		</File>
+		<File>
+			<filename>description</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\description</filepath>
+			<filesize>73</filesize>
+		</File>
+		<Directory name=hooks path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks size=4096>
+			<File>
+				<filename>applypatch-msg.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\applypatch-msg.sample</filepath>
+				<filesize>478</filesize>
+			</File>
+			<File>
+				<filename>commit-msg.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\commit-msg.sample</filepath>
+				<filesize>896</filesize>
+			</File>
+			<File>
+				<filename>fsmonitor-watchman.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\fsmonitor-watchman.sample</filepath>
+				<filesize>3327</filesize>
+			</File>
+			<File>
+				<filename>post-update.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\post-update.sample</filepath>
+				<filesize>189</filesize>
+			</File>
+			<File>
+				<filename>pre-applypatch.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\pre-applypatch.sample</filepath>
+				<filesize>424</filesize>
+			</File>
+			<File>
+				<filename>pre-commit.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\pre-commit.sample</filepath>
+				<filesize>1638</filesize>
+			</File>
+			<File>
+				<filename>pre-push.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\pre-push.sample</filepath>
+				<filesize>1348</filesize>
+			</File>
+			<File>
+				<filename>pre-rebase.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\pre-rebase.sample</filepath>
+				<filesize>4898</filesize>
+			</File>
+			<File>
+				<filename>pre-receive.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\pre-receive.sample</filepath>
+				<filesize>544</filesize>
+			</File>
+			<File>
+				<filename>prepare-commit-msg.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\prepare-commit-msg.sample</filepath>
+				<filesize>1492</filesize>
+			</File>
+			<File>
+				<filename>update.sample</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\hooks\update.sample</filepath>
+				<filesize>3610</filesize>
+			</File>
+		</Directory>
+		<File>
+			<filename>index</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\index</filepath>
+			<filesize>4176</filesize>
+		</File>
+		<Directory name=info path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\info size=0>
+			<File>
+				<filename>exclude</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\info\exclude</filepath>
+				<filesize>240</filesize>
+			</File>
+		</Directory>
+		<Directory name=logs path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs size=0>
+			<File>
+				<filename>HEAD</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\HEAD</filepath>
+				<filesize>868</filesize>
+			</File>
+			<Directory name=refs path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs size=0>
+				<Directory name=heads path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs\heads size=0>
+					<File>
+						<filename>master</filename>
+						<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs\heads\master</filepath>
+						<filesize>868</filesize>
+					</File>
+				</Directory>
+				<Directory name=remotes path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs\remotes size=0>
+					<Directory name=origin path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs\remotes\origin size=0>
+						<File>
+							<filename>master</filename>
+							<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\logs\refs\remotes\origin\master</filepath>
+							<filesize>790</filesize>
+						</File>
+					</Directory>
+				</Directory>
+			</Directory>
+		</Directory>
+		<Directory name=objects path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects size=8192>
+			<Directory name=02 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\02 size=0>
+				<File>
+					<filename>46d8d4bc03e38fb1b9b883a9d0c64a26bb62e3</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\02\46d8d4bc03e38fb1b9b883a9d0c64a26bb62e3</filepath>
+					<filesize>61</filesize>
+				</File>
+			</Directory>
+			<Directory name=03 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\03 size=0>
+				<File>
+					<filename>041f07fcee533f18f1f107a98e84d0ac286765</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\03\041f07fcee533f18f1f107a98e84d0ac286765</filepath>
+					<filesize>46</filesize>
+				</File>
+			</Directory>
+			<Directory name=08 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\08 size=0>
+				<File>
+					<filename>34bf2c626b6591e245d590b70a6b0482e6f20a</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\08\34bf2c626b6591e245d590b70a6b0482e6f20a</filepath>
+					<filesize>45</filesize>
+				</File>
+				<File>
+					<filename>88f90bea1cea81bd76beb93f11d3ed429063fa</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\08\88f90bea1cea81bd76beb93f11d3ed429063fa</filepath>
+					<filesize>126</filesize>
+				</File>
+			</Directory>
+			<Directory name=09 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\09 size=0>
+				<File>
+					<filename>ee95d1ad32b35dc828d083c88984bfecb01b94</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\09\ee95d1ad32b35dc828d083c88984bfecb01b94</filepath>
+					<filesize>84</filesize>
+				</File>
+			</Directory>
+			<Directory name=0f path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\0f size=0>
+				<File>
+					<filename>ffbbe2d9dba1f863b0ee0a3fae8d9df068ee34</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\0f\ffbbe2d9dba1f863b0ee0a3fae8d9df068ee34</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=10 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\10 size=0>
+				<File>
+					<filename>f1c57b3a7e186317393099037371f8fa31db4d</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\10\f1c57b3a7e186317393099037371f8fa31db4d</filepath>
+					<filesize>1390</filesize>
+				</File>
+			</Directory>
+			<Directory name=15 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\15 size=0>
+				<File>
+					<filename>5b506235aaa784680b9f58350b734211db45c2</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\15\5b506235aaa784680b9f58350b734211db45c2</filepath>
+					<filesize>45</filesize>
+				</File>
+			</Directory>
+			<Directory name=16 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\16 size=0>
+				<File>
+					<filename>2c1919927013c64fd506bd73d51dc2a4c37b11</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\16\2c1919927013c64fd506bd73d51dc2a4c37b11</filepath>
+					<filesize>46</filesize>
+				</File>
+			</Directory>
+			<Directory name=17 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\17 size=0>
+				<File>
+					<filename>9acf88cf8e456bf9fef56e41836ebcc029aa51</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\17\9acf88cf8e456bf9fef56e41836ebcc029aa51</filepath>
+					<filesize>112</filesize>
+				</File>
+			</Directory>
+			<Directory name=23 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\23 size=0>
+				<File>
+					<filename>37d3317a3a17eb4f265c2e4e6414e69f348b93</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\23\37d3317a3a17eb4f265c2e4e6414e69f348b93</filepath>
+					<filesize>971</filesize>
+				</File>
+				<File>
+					<filename>8f4d582ab87af5d6077975b95b3574940b851e</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\23\8f4d582ab87af5d6077975b95b3574940b851e</filepath>
+					<filesize>254</filesize>
+				</File>
+				<File>
+					<filename>d268765504c5a471aa59897f40ad7bc01472c8</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\23\d268765504c5a471aa59897f40ad7bc01472c8</filepath>
+					<filesize>174</filesize>
+				</File>
+			</Directory>
+			<Directory name=24 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\24 size=0>
+				<File>
+					<filename>5fc715493090a3aeeb14bac19179b7e0e7e261</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\24\5fc715493090a3aeeb14bac19179b7e0e7e261</filepath>
+					<filesize>183</filesize>
+				</File>
+			</Directory>
+			<Directory name=26 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\26 size=0>
+				<File>
+					<filename>35dbf1a8defd63be2fb4916b054eca677a448f</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\26\35dbf1a8defd63be2fb4916b054eca677a448f</filepath>
+					<filesize>256</filesize>
+				</File>
+			</Directory>
+			<Directory name=27 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\27 size=0>
+				<File>
+					<filename>49754684cca88d322f08fb47ebf5d53ec2e892</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\27\49754684cca88d322f08fb47ebf5d53ec2e892</filepath>
+					<filesize>55</filesize>
+				</File>
+			</Directory>
+			<Directory name=28 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\28 size=0>
+				<File>
+					<filename>a92fd7e730ec2296c9782bf7c6cee2f6434bcb</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\28\a92fd7e730ec2296c9782bf7c6cee2f6434bcb</filepath>
+					<filesize>64</filesize>
+				</File>
+			</Directory>
+			<Directory name=2b path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2b size=0>
+				<File>
+					<filename>b077be7688abdc2eb3512914917e8bff10ae9b</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2b\b077be7688abdc2eb3512914917e8bff10ae9b</filepath>
+					<filesize>45</filesize>
+				</File>
+			</Directory>
+			<Directory name=2e path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2e size=0>
+				<File>
+					<filename>cb2e9ee1ce1afc225a56df687aed194cafa262</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2e\cb2e9ee1ce1afc225a56df687aed194cafa262</filepath>
+					<filesize>64</filesize>
+				</File>
+			</Directory>
+			<Directory name=2f path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2f size=0>
+				<File>
+					<filename>390da39ae5b44e70f0fcf94c40ff23cd4e837f</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\2f\390da39ae5b44e70f0fcf94c40ff23cd4e837f</filepath>
+					<filesize>522</filesize>
+				</File>
+			</Directory>
+			<Directory name=37 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\37 size=0>
+				<File>
+					<filename>01333239286a7f604218cea43436dec0be0599</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\37\01333239286a7f604218cea43436dec0be0599</filepath>
+					<filesize>639</filesize>
+				</File>
+				<File>
+					<filename>0df2f874978a877d6ad39b1e0df945796f8837</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\37\0df2f874978a877d6ad39b1e0df945796f8837</filepath>
+					<filesize>85</filesize>
+				</File>
+			</Directory>
+			<Directory name=3a path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3a size=0>
+				<File>
+					<filename>32d947227a081f73365b2f05fb1d970c6ee311</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3a\32d947227a081f73365b2f05fb1d970c6ee311</filepath>
+					<filesize>1412</filesize>
+				</File>
+			</Directory>
+			<Directory name=3b path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3b size=0>
+				<File>
+					<filename>4cb7a177ea55b92f838f18497097dcd47c25e6</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3b\4cb7a177ea55b92f838f18497097dcd47c25e6</filepath>
+					<filesize>59</filesize>
+				</File>
+			</Directory>
+			<Directory name=3c path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3c size=0>
+				<File>
+					<filename>b6a47635aa507b710fb990aea0d12bd5e9e4eb</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\3c\b6a47635aa507b710fb990aea0d12bd5e9e4eb</filepath>
+					<filesize>379</filesize>
+				</File>
+			</Directory>
+			<Directory name=40 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\40 size=0>
+				<File>
+					<filename>076cf1ddb11f8f065e3a5f1b11501ebd3c8ebc</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\40\076cf1ddb11f8f065e3a5f1b11501ebd3c8ebc</filepath>
+					<filesize>119</filesize>
+				</File>
+			</Directory>
+			<Directory name=44 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\44 size=0>
+				<File>
+					<filename>bcf0def0298f7f6bde4d73b7ebfddac3f2268b</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\44\bcf0def0298f7f6bde4d73b7ebfddac3f2268b</filepath>
+					<filesize>46</filesize>
+				</File>
+			</Directory>
+			<Directory name=45 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\45 size=0>
+				<File>
+					<filename>c65f8a5de5908c9368257eedfa9cfd34f36d04</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\45\c65f8a5de5908c9368257eedfa9cfd34f36d04</filepath>
+					<filesize>54</filesize>
+				</File>
+			</Directory>
+			<Directory name=51 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\51 size=0>
+				<File>
+					<filename>6952addf69e03ccd59df13fb15f82103e3f39f</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\51\6952addf69e03ccd59df13fb15f82103e3f39f</filepath>
+					<filesize>157</filesize>
+				</File>
+				<File>
+					<filename>81f6b926e67eeaac702160ae9dccd37874ebaa</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\51\81f6b926e67eeaac702160ae9dccd37874ebaa</filepath>
+					<filesize>461</filesize>
+				</File>
+			</Directory>
+			<Directory name=52 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\52 size=0>
+				<File>
+					<filename>374ac910d36b1ee324f7e0035b6d200875ce06</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\52\374ac910d36b1ee324f7e0035b6d200875ce06</filepath>
+					<filesize>48</filesize>
+				</File>
+			</Directory>
+			<Directory name=57 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\57 size=0>
+				<File>
+					<filename>d08ed6f1a87f685f170131100e43b2ce2224ef</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\57\d08ed6f1a87f685f170131100e43b2ce2224ef</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=59 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\59 size=0>
+				<File>
+					<filename>ddd485a434cb200407b82703ba6dc8fb1e92b3</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\59\ddd485a434cb200407b82703ba6dc8fb1e92b3</filepath>
+					<filesize>48</filesize>
+				</File>
+			</Directory>
+			<Directory name=5b path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5b size=0>
+				<File>
+					<filename>2163c04f90b38dca46cdd4a56c7418fa7fcd93</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5b\2163c04f90b38dca46cdd4a56c7418fa7fcd93</filepath>
+					<filesize>161</filesize>
+				</File>
+			</Directory>
+			<Directory name=5c path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5c size=0>
+				<File>
+					<filename>9f99107dc588749c2c58946b5772dcff0a60ca</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5c\9f99107dc588749c2c58946b5772dcff0a60ca</filepath>
+					<filesize>537</filesize>
+				</File>
+			</Directory>
+			<Directory name=5d path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5d size=0>
+				<File>
+					<filename>8b7b4ffcc7d9b0f8348891ebbbe7b0dc7c5741</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\5d\8b7b4ffcc7d9b0f8348891ebbbe7b0dc7c5741</filepath>
+					<filesize>79</filesize>
+				</File>
+			</Directory>
+			<Directory name=62 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\62 size=0>
+				<File>
+					<filename>1a501c2cfebf15ae27e61942c260e5d34ec118</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\62\1a501c2cfebf15ae27e61942c260e5d34ec118</filepath>
+					<filesize>48</filesize>
+				</File>
+				<File>
+					<filename>45109c86a11c08245c66138c7c19879e23697f</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\62\45109c86a11c08245c66138c7c19879e23697f</filepath>
+					<filesize>145</filesize>
+				</File>
+			</Directory>
+			<Directory name=63 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\63 size=0>
+				<File>
+					<filename>64634cdc3fb215144c75ba0b2496b90032e876</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\63\64634cdc3fb215144c75ba0b2496b90032e876</filepath>
+					<filesize>2272</filesize>
+				</File>
+				<File>
+					<filename>76d0b27f82ba260d237444daafc52f363ef92a</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\63\76d0b27f82ba260d237444daafc52f363ef92a</filepath>
+					<filesize>183</filesize>
+				</File>
+			</Directory>
+			<Directory name=65 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\65 size=0>
+				<File>
+					<filename>bc80cad1d4f258eccf6836e10ff2fdec0ea950</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\65\bc80cad1d4f258eccf6836e10ff2fdec0ea950</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=66 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\66 size=0>
+				<File>
+					<filename>5175f24a6c55ed5c2533da831bdb854ea29aa4</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\66\5175f24a6c55ed5c2533da831bdb854ea29aa4</filepath>
+					<filesize>136</filesize>
+				</File>
+			</Directory>
+			<Directory name=68 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\68 size=0>
+				<File>
+					<filename>065d45376217234c9c5ab49adac2dd17f4e16a</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\68\065d45376217234c9c5ab49adac2dd17f4e16a</filepath>
+					<filesize>146</filesize>
+				</File>
+			</Directory>
+			<Directory name=6c path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\6c size=0>
+				<File>
+					<filename>50174caaf18487586f3a61837b9ab8dc51c8a0</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\6c\50174caaf18487586f3a61837b9ab8dc51c8a0</filepath>
+					<filesize>2315</filesize>
+				</File>
+			</Directory>
+			<Directory name=6f path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\6f size=0>
+				<File>
+					<filename>65eb15e8d5965dae0cc303ccdc39dd7daba205</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\6f\65eb15e8d5965dae0cc303ccdc39dd7daba205</filepath>
+					<filesize>140</filesize>
+				</File>
+			</Directory>
+			<Directory name=70 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\70 size=0>
+				<File>
+					<filename>45d888e3d11793fbb09d9050efac9a0d040de7</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\70\45d888e3d11793fbb09d9050efac9a0d040de7</filepath>
+					<filesize>108</filesize>
+				</File>
+				<File>
+					<filename>62a7175d45d5eebffb53e318aaa51f321b908c</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\70\62a7175d45d5eebffb53e318aaa51f321b908c</filepath>
+					<filesize>91</filesize>
+				</File>
+			</Directory>
+			<Directory name=71 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\71 size=0>
+				<File>
+					<filename>cee5ce3b5faceefaf7f0fd133b7d40c2ef72d9</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\71\cee5ce3b5faceefaf7f0fd133b7d40c2ef72d9</filepath>
+					<filesize>116</filesize>
+				</File>
+				<File>
+					<filename>db16af7aa115b3ab43882d498535785a757f61</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\71\db16af7aa115b3ab43882d498535785a757f61</filepath>
+					<filesize>546</filesize>
+				</File>
+			</Directory>
+			<Directory name=75 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\75 size=0>
+				<File>
+					<filename>3975a42f66b197c3e5bc83900b425add697721</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\75\3975a42f66b197c3e5bc83900b425add697721</filepath>
+					<filesize>247</filesize>
+				</File>
+			</Directory>
+			<Directory name=79 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\79 size=0>
+				<File>
+					<filename>01338c24cba88f3401a2eea607993c2ec16210</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\79\01338c24cba88f3401a2eea607993c2ec16210</filepath>
+					<filesize>130</filesize>
+				</File>
+			</Directory>
+			<Directory name=7a path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\7a size=0>
+				<File>
+					<filename>9e0e563e777352d2fc80408b1ecc0a66aaea61</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\7a\9e0e563e777352d2fc80408b1ecc0a66aaea61</filepath>
+					<filesize>372</filesize>
+				</File>
+			</Directory>
+			<Directory name=80 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\80 size=0>
+				<File>
+					<filename>ef2eb8e39c094952702f6f15aa038859539643</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\80\ef2eb8e39c094952702f6f15aa038859539643</filepath>
+					<filesize>77</filesize>
+				</File>
+			</Directory>
+			<Directory name=81 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\81 size=0>
+				<File>
+					<filename>a0115425e345524f0a104a7cf7af21fe332ca9</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\81\a0115425e345524f0a104a7cf7af21fe332ca9</filepath>
+					<filesize>330</filesize>
+				</File>
+			</Directory>
+			<Directory name=82 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\82 size=0>
+				<File>
+					<filename>a4f8c28afa582ac7758d47c9a96f9248b75946</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\82\a4f8c28afa582ac7758d47c9a96f9248b75946</filepath>
+					<filesize>606</filesize>
+				</File>
+				<File>
+					<filename>e85220d79db9e1c7f38b6b09775dde87ae6662</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\82\e85220d79db9e1c7f38b6b09775dde87ae6662</filepath>
+					<filesize>64</filesize>
+				</File>
+			</Directory>
+			<Directory name=8d path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\8d size=0>
+				<File>
+					<filename>8810a1cd8b5dc28a4146dbb6b53ad310888a10</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\8d\8810a1cd8b5dc28a4146dbb6b53ad310888a10</filepath>
+					<filesize>120</filesize>
+				</File>
+			</Directory>
+			<Directory name=96 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\96 size=0>
+				<File>
+					<filename>b6ddd1f0806fd3bcd1942dc2dfcc86ce48f7ba</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\96\b6ddd1f0806fd3bcd1942dc2dfcc86ce48f7ba</filepath>
+					<filesize>323</filesize>
+				</File>
+			</Directory>
+			<Directory name=9f path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\9f size=0>
+				<File>
+					<filename>e0d94b14468deb00e232c6646b933e45cc8431</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\9f\e0d94b14468deb00e232c6646b933e45cc8431</filepath>
+					<filesize>46</filesize>
+				</File>
+			</Directory>
+			<Directory name=a1 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a1 size=0>
+				<File>
+					<filename>ed08a2c73b5d1f62bd9f400fad05f0d1b609a7</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a1\ed08a2c73b5d1f62bd9f400fad05f0d1b609a7</filepath>
+					<filesize>161</filesize>
+				</File>
+			</Directory>
+			<Directory name=a2 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a2 size=0>
+				<File>
+					<filename>6030afc0d9acb29576f1ee9f5ba7c977ce667c</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a2\6030afc0d9acb29576f1ee9f5ba7c977ce667c</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=a4 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a4 size=0>
+				<File>
+					<filename>e0c298cd154bf6f96f4d9dd7b4581f607adbdc</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a4\e0c298cd154bf6f96f4d9dd7b4581f607adbdc</filepath>
+					<filesize>5788</filesize>
+				</File>
+			</Directory>
+			<Directory name=a5 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a5 size=0>
+				<File>
+					<filename>aa8efc3d451fb2b3de96b6d3f32a9900c87c6e</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a5\aa8efc3d451fb2b3de96b6d3f32a9900c87c6e</filepath>
+					<filesize>136</filesize>
+				</File>
+			</Directory>
+			<Directory name=a6 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a6 size=0>
+				<File>
+					<filename>8274c5d03325317eb1a91fc403733c5555b57f</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a6\8274c5d03325317eb1a91fc403733c5555b57f</filepath>
+					<filesize>1292</filesize>
+				</File>
+				<File>
+					<filename>c5ed0c4d1a94af236e6b9ccbe047e2352d2861</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a6\c5ed0c4d1a94af236e6b9ccbe047e2352d2861</filepath>
+					<filesize>374</filesize>
+				</File>
+			</Directory>
+			<Directory name=a7 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a7 size=0>
+				<File>
+					<filename>4f7e5bb25b9e91cf554609adb9da3595cd405d</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a7\4f7e5bb25b9e91cf554609adb9da3595cd405d</filepath>
+					<filesize>177</filesize>
+				</File>
+				<File>
+					<filename>b55c206b8ec730202e76258fc24719713b5af5</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a7\b55c206b8ec730202e76258fc24719713b5af5</filepath>
+					<filesize>57</filesize>
+				</File>
+			</Directory>
+			<Directory name=a8 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a8 size=0>
+				<File>
+					<filename>a699276363b85ce3c8a44117902347a1525628</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\a8\a699276363b85ce3c8a44117902347a1525628</filepath>
+					<filesize>465</filesize>
+				</File>
+			</Directory>
+			<Directory name=aa path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\aa size=0>
+				<File>
+					<filename>61f3d778ac4c2b7b1ff1c6617f87a85b36a08c</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\aa\61f3d778ac4c2b7b1ff1c6617f87a85b36a08c</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=ad path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ad size=0>
+				<File>
+					<filename>7c851318006ee16ad9a1beb0b1261545b9c63b</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ad\7c851318006ee16ad9a1beb0b1261545b9c63b</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=af path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\af size=0>
+				<File>
+					<filename>4abf375c9ea86014a3b8d2f4e9d445b7c846a1</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\af\4abf375c9ea86014a3b8d2f4e9d445b7c846a1</filepath>
+					<filesize>47</filesize>
+				</File>
+				<File>
+					<filename>f06b27f963c7538e04fcd2b68e523c96e15e8a</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\af\f06b27f963c7538e04fcd2b68e523c96e15e8a</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=b1 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b1 size=0>
+				<File>
+					<filename>482b6d16bfd8bd5563864d9ade59c8c6074d92</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b1\482b6d16bfd8bd5563864d9ade59c8c6074d92</filepath>
+					<filesize>85</filesize>
+				</File>
+			</Directory>
+			<Directory name=b6 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b6 size=0>
+				<File>
+					<filename>2900ab7db929cc6331a042e65498e6544d8302</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b6\2900ab7db929cc6331a042e65498e6544d8302</filepath>
+					<filesize>48</filesize>
+				</File>
+			</Directory>
+			<Directory name=b7 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b7 size=0>
+				<File>
+					<filename>7e4212d5fe0a10dd8530be5520ae723edb955e</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\b7\7e4212d5fe0a10dd8530be5520ae723edb955e</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=c6 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\c6 size=0>
+				<File>
+					<filename>08c4d0409de20e671ab9b62849182401405e6d</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\c6\08c4d0409de20e671ab9b62849182401405e6d</filepath>
+					<filesize>120</filesize>
+				</File>
+			</Directory>
+			<Directory name=ca path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ca size=0>
+				<File>
+					<filename>ec98149d3a64b805da5b811a3053e8306987cc</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ca\ec98149d3a64b805da5b811a3053e8306987cc</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=cc path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\cc size=0>
+				<File>
+					<filename>8d57a1c057e98a98c4e1209749562ac9fac015</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\cc\8d57a1c057e98a98c4e1209749562ac9fac015</filepath>
+					<filesize>85</filesize>
+				</File>
+			</Directory>
+			<Directory name=cd path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\cd size=0>
+				<File>
+					<filename>8b53b5f7f58c38f5ff020cad366d1562f84ed9</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\cd\8b53b5f7f58c38f5ff020cad366d1562f84ed9</filepath>
+					<filesize>91</filesize>
+				</File>
+			</Directory>
+			<Directory name=d1 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d1 size=0>
+				<File>
+					<filename>dc574452a511effa4d7b33ad7d3a17df27cc10</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d1\dc574452a511effa4d7b33ad7d3a17df27cc10</filepath>
+					<filesize>146</filesize>
+				</File>
+			</Directory>
+			<Directory name=d2 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d2 size=0>
+				<File>
+					<filename>98dd0d2d542f294de117cd9e59504bfc20f5ee</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d2\98dd0d2d542f294de117cd9e59504bfc20f5ee</filepath>
+					<filesize>571</filesize>
+				</File>
+			</Directory>
+			<Directory name=d3 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d3 size=0>
+				<File>
+					<filename>c7e70c51a69e1088bcc4d06708ace4dec68f17</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d3\c7e70c51a69e1088bcc4d06708ace4dec68f17</filepath>
+					<filesize>45</filesize>
+				</File>
+			</Directory>
+			<Directory name=d5 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d5 size=0>
+				<File>
+					<filename>5dc85d606470a4033fccb2681842bc7721e902</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d5\5dc85d606470a4033fccb2681842bc7721e902</filepath>
+					<filesize>47</filesize>
+				</File>
+			</Directory>
+			<Directory name=d9 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d9 size=0>
+				<File>
+					<filename>5db53873ee635887052829bc678a6b55c67bb1</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\d9\5db53873ee635887052829bc678a6b55c67bb1</filepath>
+					<filesize>112</filesize>
+				</File>
+			</Directory>
+			<Directory name=e1 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e1 size=0>
+				<File>
+					<filename>792af7d7ccda4f46e8e20d9ce39514ce0fec5e</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e1\792af7d7ccda4f46e8e20d9ce39514ce0fec5e</filepath>
+					<filesize>145</filesize>
+				</File>
+			</Directory>
+			<Directory name=e3 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e3 size=0>
+				<File>
+					<filename>e0afbc3efb666e530c9288bde2ec2e8773edf3</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e3\e0afbc3efb666e530c9288bde2ec2e8773edf3</filepath>
+					<filesize>640</filesize>
+				</File>
+			</Directory>
+			<Directory name=e6 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e6 size=0>
+				<File>
+					<filename>9de29bb2d1d6434b8b29ae775ad8c2e48c5391</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391</filepath>
+					<filesize>15</filesize>
+				</File>
+			</Directory>
+			<Directory name=ee path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ee size=0>
+				<File>
+					<filename>0af3baf26d4e3e73f79eea5dd1b5d084e074be</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ee\0af3baf26d4e3e73f79eea5dd1b5d084e074be</filepath>
+					<filesize>63</filesize>
+				</File>
+				<File>
+					<filename>69b4bbfbc1706d359f8469c11b9fd366dfec33</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\ee\69b4bbfbc1706d359f8469c11b9fd366dfec33</filepath>
+					<filesize>332</filesize>
+				</File>
+			</Directory>
+			<Directory name=f1 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f1 size=0>
+				<File>
+					<filename>336e86b994ff9edc2a6273dd32b79fb395c908</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f1\336e86b994ff9edc2a6273dd32b79fb395c908</filepath>
+					<filesize>108</filesize>
+				</File>
+			</Directory>
+			<Directory name=f2 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f2 size=0>
+				<File>
+					<filename>7f3f24d642787b8fabd2f01b67429cd5bb4563</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f2\7f3f24d642787b8fabd2f01b67429cd5bb4563</filepath>
+					<filesize>1746</filesize>
+				</File>
+			</Directory>
+			<Directory name=f5 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f5 size=0>
+				<File>
+					<filename>899705a3ee566041ad1ba09a6d36c013ddaeb7</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f5\899705a3ee566041ad1ba09a6d36c013ddaeb7</filepath>
+					<filesize>246</filesize>
+				</File>
+			</Directory>
+			<Directory name=f9 path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f9 size=0>
+				<File>
+					<filename>96fe90f01ac36bac261885cd3be527b20a5ebb</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\f9\96fe90f01ac36bac261885cd3be527b20a5ebb</filepath>
+					<filesize>553</filesize>
+				</File>
+			</Directory>
+			<Directory name=fb path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\fb size=0>
+				<File>
+					<filename>93a691477bffa049114669c811bb0b897ed138</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\fb\93a691477bffa049114669c811bb0b897ed138</filepath>
+					<filesize>46</filesize>
+				</File>
+			</Directory>
+			<Directory name=info path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\info size=0>
+			</Directory>
+			<Directory name=pack path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\objects\pack size=0>
+			</Directory>
+		</Directory>
+		<Directory name=refs path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs size=0>
+			<Directory name=heads path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\heads size=0>
+				<File>
+					<filename>master</filename>
+					<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\heads\master</filepath>
+					<filesize>41</filesize>
+				</File>
+			</Directory>
+			<Directory name=remotes path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\remotes size=0>
+				<Directory name=origin path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\remotes\origin size=0>
+					<File>
+						<filename>master</filename>
+						<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\remotes\origin\master</filepath>
+						<filesize>41</filesize>
+					</File>
+				</Directory>
+			</Directory>
+			<Directory name=tags path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.git\refs\tags size=0>
+			</Directory>
+		</Directory>
 	</Directory>
-	<Directory name=B path=C:\ABC\B size=0>
-		<Directory name=C path=C:\ABC\B\C size=0>
+	<File>
+		<filename>.project</filename>
+		<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.project</filepath>
+		<filesize>562</filesize>
+	</File>
+	<Directory name=.settings path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.settings size=0>
+		<File>
+			<filename>org.eclipse.core.resources.prefs</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.settings\org.eclipse.core.resources.prefs</filepath>
+			<filesize>119</filesize>
+		</File>
+		<File>
+			<filename>org.eclipse.jdt.core.prefs</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.settings\org.eclipse.jdt.core.prefs</filepath>
+			<filesize>243</filesize>
+		</File>
+		<File>
+			<filename>org.eclipse.m2e.core.prefs</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\.settings\org.eclipse.m2e.core.prefs</filepath>
+			<filesize>90</filesize>
+		</File>
+	</Directory>
+	<File>
+		<filename>README.md</filename>
+		<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\README.md</filepath>
+		<filesize>1105</filesize>
+	</File>
+	<File>
+		<filename>pom.xml</filename>
+		<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\pom.xml</filepath>
+		<filesize>792</filesize>
+	</File>
+	<Directory name=src path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src size=0>
+		<Directory name=main path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main size=0>
+			<Directory name=java path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java size=0>
+				<Directory name=com path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com size=0>
+					<Directory name=rahul path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul size=0>
+						<Directory name=rawat path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat size=0>
+							<Directory name=assignment path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\assignment size=0>
+								<File>
+									<filename>Assignment.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\assignment\Assignment.java</filepath>
+									<filesize>4164</filesize>
+								</File>
+								<File>
+									<filename>GetStringBuffer.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\assignment\GetStringBuffer.java</filepath>
+									<filesize>513</filesize>
+								</File>
+								<File>
+									<filename>UtilClass.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\assignment\UtilClass.java</filepath>
+									<filesize>617</filesize>
+								</File>
+							</Directory>
+							<Directory name=exception path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\exception size=0>
+								<File>
+									<filename>ApplicationConstants.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\exception\ApplicationConstants.java</filepath>
+									<filesize>360</filesize>
+								</File>
+								<File>
+									<filename>DisplayDirectoryException.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\main\java\com\rahul\rawat\exception\DisplayDirectoryException.java</filepath>
+									<filesize>1352</filesize>
+								</File>
+							</Directory>
+						</Directory>
+					</Directory>
+				</Directory>
+			</Directory>
 		</Directory>
-		<Directory name=D path=C:\ABC\B\D size=0>
+		<Directory name=resources path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\resources size=0>
+			<File>
+				<filename>Output.xml</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\resources\Output.xml</filepath>
+				<filesize>337</filesize>
+			</File>
 		</Directory>
-		<Directory name=E path=C:\ABC\B\E size=0>
+		<Directory name=test path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test size=0>
+			<Directory name=java path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java size=0>
+				<Directory name=com path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java\com size=0>
+					<Directory name=rahul path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java\com\rahul size=0>
+						<Directory name=rawat path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java\com\rahul\rawat size=0>
+							<Directory name=test path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java\com\rahul\rawat\test size=0>
+								<File>
+									<filename>AssignmentTest.java</filename>
+									<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\src\test\java\com\rahul\rawat\test\AssignmentTest.java</filepath>
+									<filesize>2785</filesize>
+								</File>
+							</Directory>
+						</Directory>
+					</Directory>
+				</Directory>
+			</Directory>
+		</Directory>
+	</Directory>
+	<Directory name=target path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target size=4096>
+		<File>
+			<filename>assignment-0.0.1-SNAPSHOT.jar</filename>
+			<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\assignment-0.0.1-SNAPSHOT.jar</filepath>
+			<filesize>7491</filesize>
+		</File>
+		<Directory name=classes path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes size=0>
+			<Directory name=com path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com size=0>
+				<Directory name=rahul path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul size=0>
+					<Directory name=rawat path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat size=0>
+						<Directory name=assignment path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\assignment size=0>
+							<File>
+								<filename>Assignment$1.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\assignment\Assignment$1.class</filepath>
+								<filesize>978</filesize>
+							</File>
+							<File>
+								<filename>Assignment.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\assignment\Assignment.class</filepath>
+								<filesize>4284</filesize>
+							</File>
+							<File>
+								<filename>GetStringBuffer.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\assignment\GetStringBuffer.class</filepath>
+								<filesize>579</filesize>
+							</File>
+							<File>
+								<filename>UtilClass.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\assignment\UtilClass.class</filepath>
+								<filesize>673</filesize>
+							</File>
+						</Directory>
+						<Directory name=exception path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\exception size=0>
+							<File>
+								<filename>ApplicationConstants.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\exception\ApplicationConstants.class</filepath>
+								<filesize>460</filesize>
+							</File>
+							<File>
+								<filename>DisplayDirectoryException.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\classes\com\rahul\rawat\exception\DisplayDirectoryException.class</filepath>
+								<filesize>973</filesize>
+							</File>
+						</Directory>
+					</Directory>
+				</Directory>
+			</Directory>
+		</Directory>
+		<Directory name=maven-archiver path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-archiver size=0>
+			<File>
+				<filename>pom.properties</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-archiver\pom.properties</filepath>
+				<filesize>124</filesize>
+			</File>
+		</Directory>
+		<Directory name=maven-status path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status size=0>
+			<Directory name=maven-compiler-plugin path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin size=0>
+				<Directory name=compile path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\compile size=0>
+					<Directory name=default-compile path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\compile\default-compile size=0>
+						<File>
+							<filename>createdFiles.lst</filename>
+							<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst</filepath>
+							<filesize>293</filesize>
+						</File>
+						<File>
+							<filename>inputFiles.lst</filename>
+							<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst</filepath>
+							<filesize>612</filesize>
+						</File>
+					</Directory>
+				</Directory>
+				<Directory name=testCompile path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\testCompile size=0>
+					<Directory name=default-testCompile path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile size=0>
+						<File>
+							<filename>createdFiles.lst</filename>
+							<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst</filepath>
+							<filesize>42</filesize>
+						</File>
+						<File>
+							<filename>inputFiles.lst</filename>
+							<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst</filepath>
+							<filesize>115</filesize>
+						</File>
+					</Directory>
+				</Directory>
+			</Directory>
+		</Directory>
+		<Directory name=surefire-reports path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\surefire-reports size=0>
+			<File>
+				<filename>TEST-com.rahul.rawat.test.AssignmentTest.xml</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\surefire-reports\TEST-com.rahul.rawat.test.AssignmentTest.xml</filepath>
+				<filesize>6329</filesize>
+			</File>
+			<File>
+				<filename>com.rahul.rawat.test.AssignmentTest.txt</filename>
+				<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\surefire-reports\com.rahul.rawat.test.AssignmentTest.txt</filepath>
+				<filesize>283</filesize>
+			</File>
+		</Directory>
+		<Directory name=test-classes path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes size=0>
+			<Directory name=com path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes\com size=0>
+				<Directory name=rahul path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes\com\rahul size=0>
+					<Directory name=rawat path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes\com\rahul\rawat size=0>
+						<Directory name=test path=C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes\com\rahul\rawat\test size=0>
+							<File>
+								<filename>AssignmentTest.class</filename>
+								<filepath>C:\Workout_Project\Assignment\WindowsDirectoryPathTraversal\target\test-classes\com\rahul\rawat\test\AssignmentTest.class</filepath>
+								<filesize>2941</filesize>
+							</File>
+						</Directory>
+					</Directory>
+				</Directory>
+			</Directory>
 		</Directory>
 	</Directory>
 </Directory>
